@@ -19,9 +19,11 @@ const sum = num1+num2;
 }
 // spread operator
 const newNumbers=[...numbers];
+const newNumbers2=[...numbers,23];
 
 numbers.push(99);
 numbers.push(99);
 numbers.push(99);
 console.log(numbers)
 console.log(newNumbers)
+console.log(newNumbers2)
