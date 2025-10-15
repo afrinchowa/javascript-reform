@@ -1,0 +1,12 @@
+let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = text.length;
+let text = "HELLO WORLD";
+let char = text.charAt(0);
+let text = "HELLO WORLD";
+let char = text.charCodeAt(0);
+let text = "HELLO WORLD";
+let code = text.codePointAt(0)
+const name = "W3Schools";
+let letter = name.at(2);
+const name = "W3Schools";
+let letter = name[2];
