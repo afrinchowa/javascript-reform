@@ -11,4 +11,9 @@ function myFunction(p1, p2) {
 }
 
 let result = myFunction(4, 3);
-console.log(result)
+console.log(result)\
+
+
+function greet(name, age) {
+  return `Hello $name! You are ${age} years old.`;
+}
